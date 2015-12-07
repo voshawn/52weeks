@@ -1,0 +1,154 @@
+Country,Tax Rate,Per Capita GDP,Group,Color
+Argentina,35,7956,America,DarkRed
+Aruba,59,25355,America,DarkRed
+Bahamas,0,20690,America,DarkRed
+Barbados,35,12064,America,DarkRed
+Bermuda,0,84471,America,DarkRed
+Bolivia,13,1372,America,DarkRed
+Brazil,27.5,5970,America,DarkRed
+Canada,29,38293,America,DarkRed
+Cayman Islands,0,54827,America,DarkRed
+Chile,40,9848,America,DarkRed
+Colombia,33,4549,America,DarkRed
+Costa Rica,15,5962,America,DarkRed
+Dominican Republic,25,5101,America,DarkRed
+Ecuador,35,3782,America,DarkRed
+El Salvador,30,3103,America,DarkRed
+Guatemala,7,2380,America,DarkRed
+Honduras,25,1495,America,DarkRed
+Jamaica,25,5562,America,DarkRed
+Mexico,30,8626,America,DarkRed
+Nicaragua,30,1417,America,DarkRed
+Panama,25,8088,America,DarkRed
+Peru,30,4151,America,DarkRed
+Puerto Rico,33,19801,America,DarkRed
+Suriname,38,4569,America,DarkRed
+United States,39.6,46405,America,DarkRed
+Uruguay,30,8019,America,DarkRed
+Venezuela,34,6057,America,DarkRed
+Albania,23,3995,Europe,Navy
+Austria,50,41077,Europe,Navy
+Belarus,13,4998,Europe,Navy
+Belgium,53.7,37857,Europe,Navy
+Bosnia and Herzegovina,10,3450,Europe,Navy
+Bulgaria,10,4916,Europe,Navy
+Croatia,47.2,10561,Europe,Navy
+Cyprus,35,21852,Europe,Navy
+Czech Republic,22,14945,Europe,Navy
+Denmark,55.6,47547,Europe,Navy
+Estonia,21,12348,Europe,Navy
+Euro area,42.3,32789,Europe,Navy
+Finland,51.5,38837,Europe,Navy
+France,50.3,35670,Europe,Navy
+Germany,47.5,39718,Europe,Navy
+Greece,46,18377,Europe,Navy
+Hungary,15,11888,Europe,Navy
+Iceland,46.2,59693,Europe,Navy
+Ireland,48,49361,Europe,Navy
+Isle of Man,20,49817,Europe,Navy
+Italy,47.9,28484,Europe,Navy
+Kosovo,10,2863,Europe,Navy
+Latvia,24,9974,Europe,Navy
+Liechtenstein,21,115293,Europe,Navy
+Lithuania,15,11074,Europe,Navy
+Luxembourg,43.6,79511,Europe,Navy
+Macedonia,10,3917,Europe,Navy
+Malta,35,16760,Europe,Navy
+Moldova,18,1191,Europe,Navy
+Montenegro,9,4757,Europe,Navy
+Netherlands,52,43141,Europe,Navy
+Norway,39,67246,Europe,Navy
+Poland,32,11305,Europe,Navy
+Portugal,56.5,18300,Europe,Navy
+Romania,16,6196,Europe,Navy
+Russia,13,6844,Europe,Navy
+Serbia,15,4246,Europe,Navy
+Slovakia,25,15727,Europe,Navy
+Slovenia,50,19111,Europe,Navy
+Spain,52,25618,Europe,Navy
+Sweden,56.9,46061,Europe,Navy
+Switzerland,40,58997,Europe,Navy
+Turkey,35,8872,Europe,Navy
+Ukraine,17,2081,Europe,Navy
+United Kingdom,45,40968,Europe,Navy
+Afghanistan,20,413,Asia,SkyBlue
+Armenia,26,2382,Asia,SkyBlue
+Azerbaijan,25,3276,Asia,SkyBlue
+Bahrain,0,18128,Asia,SkyBlue
+Bangladesh,25,750,Asia,SkyBlue
+Brunei,0,25140,Asia,SkyBlue
+Cambodia,20,745,Asia,SkyBlue
+China,45,3866,Asia,SkyBlue
+Georgia,20,2254,Asia,SkyBlue
+Hong Kong,15,34222,Asia,SkyBlue
+India,34,1263,Asia,SkyBlue
+Indonesia,30,1866,Asia,SkyBlue
+Iraq,15,2439,Asia,SkyBlue
+Israel,50,24541,Asia,SkyBlue
+Japan,50.8,37595,Asia,SkyBlue
+Jordan,14,2878,Asia,SkyBlue
+Kazakhstan,10,5576,Asia,SkyBlue
+Kuwait,0,30147,Asia,SkyBlue
+Laos,24,794,Asia,SkyBlue
+Lebanon,20,7315,Asia,SkyBlue
+Macao,12,52477,Asia,SkyBlue
+Malaysia,26,7304,Asia,SkyBlue
+Mongolia,10,1901,Asia,SkyBlue
+Myanmar,20,824,Asia,SkyBlue
+Oman,0,12472,Asia,SkyBlue
+Pakistan,20,819,Asia,SkyBlue
+Philippines,32,1649,Asia,SkyBlue
+Qatar,0,60796,Asia,SkyBlue
+Saudi Arabia,0,17820,Asia,SkyBlue
+Singapore,20,38088,Asia,SkyBlue
+South Korea,38,24566,Asia,SkyBlue
+Sri Lanka,24,2136,Asia,SkyBlue
+Syria,22,1700,Asia,SkyBlue
+Taiwan,40,31900,Asia,SkyBlue
+Tajikistan,13,501,Asia,SkyBlue
+Thailand,35,3451,Asia,SkyBlue
+United Arab Emirates,0,25773,Asia,SkyBlue
+Uzbekistan,22,960,Asia,SkyBlue
+Vietnam,35,1078,Asia,SkyBlue
+Yemen,15,742,Asia,SkyBlue
+Australia,45,37828,Australia,DarkOrange
+Fiji,20,3944,Australia,DarkOrange
+New Zealand,33,29201,Australia,DarkOrange
+Papua New Guinea,42,1121,Australia,DarkOrange
+Samoa,27,2680,Australia,DarkOrange
+Algeria,35,3316,Africa,Green
+Angola,17,2759,Africa,Green
+Botswana,25,7727,Africa,Green
+Cameroon,35,1022,Africa,Green
+Chad,60,788,Africa,Green
+Congo,30,306,Africa,Green
+Egypt,25,1576,Africa,Green
+Equatorial Guinea,35,11576,Africa,Green
+Ethiopia,35,316,Africa,Green
+Gabon,35,7196,Africa,Green
+Ghana,25,775,Africa,Green
+Guinea,40,299,Africa,Green
+Ivory Coast,60,1155,Africa,Green
+Kenya,30,649,Africa,Green
+Lesotho,30,979,Africa,Green
+Libya,10,4671,Africa,Green
+Madagascar,20,271,Africa,Green
+Malawi,30,272,Africa,Green
+Mauritania,33,874,Africa,Green
+Mauritius,15,7117,Africa,Green
+Morocco,38,2557,Africa,Green
+Mozambique,32,451,Africa,Green
+Namibia,37,4678,Africa,Green
+Nigeria,24,1092,Africa,Green
+Rwanda,30,418,Africa,Green
+Senegal,40,809,Africa,Green
+Seychelles,15,15592,Africa,Green
+Sierra Leone,30,538,Africa,Green
+South Africa,41,6086,Africa,Green
+Sudan,15,987,Africa,Green
+Swaziland,33,2522,Africa,Green
+Tanzania,30,601,Africa,Green
+Tunisia,35,3979,Africa,Green
+Uganda,40,422,Africa,Green
+Zambia,35,1081,Africa,Green
+Zimbabwe,51.5,475,Africa,Green
